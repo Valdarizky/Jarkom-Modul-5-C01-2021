@@ -1,7 +1,5 @@
 # Jarkom-Modul-5-C01-2021
 
-# Jarkom-Modul-4-C01-2021
-
 ## Anggota Kelompok C01
 | Nama | NRP |
 | ------------- | ------------- |
