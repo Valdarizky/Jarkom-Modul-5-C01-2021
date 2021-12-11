@@ -7,3 +7,4 @@
 | Melanchthon Bonifacio Butarbutar  | 05111940000097  |
 | Muhammad Valda Rizky Nur FIrdaus | 05111940000115  |
 
+###Soal
